@@ -7,6 +7,9 @@ Useful when video has an ad but not the SRT file.
 
 Example (add 23 seconds after minute 12):
 
+
+![Picture](http://www.garpa.net/github/pySRT-ads.png)
+
 <i>Before:</i><br />
 181<br />
 00:12:02,801 --> 00:12:04,909<br />
